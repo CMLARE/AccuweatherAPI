@@ -1,0 +1,52 @@
+[
+   {
+      "ID":"AFR",
+      "EnglishName":"Africa",
+      "LocalizedName":"Africa"
+   },
+   {
+      "ID":"ANT",
+      "EnglishName":"Antarctica",
+      "LocalizedName":"Antarctica"
+   },
+   {
+      "ID":"ARC",
+      "EnglishName":"Arctic",
+      "LocalizedName":"Arctic"
+   },
+   {
+      "ID":"ASI",
+      "EnglishName":"Asia",
+      "LocalizedName":"Asia"
+   },
+   {
+      "ID":"CAC",
+      "EnglishName":"Central America",
+      "LocalizedName":"Central America"
+   },
+   {
+      "ID":"EUR",
+      "EnglishName":"Europe",
+      "LocalizedName":"Europe"
+   },
+   {
+      "ID":"MEA",
+      "EnglishName":"Middle East",
+      "LocalizedName":"Middle East"
+   },
+   {
+      "ID":"NAM",
+      "EnglishName":"North America",
+      "LocalizedName":"North America"
+   },
+   {
+      "ID":"OCN",
+      "EnglishName":"Oceania",
+      "LocalizedName":"Oceania"
+   },
+   {
+      "ID":"SAM",
+      "EnglishName":"South America",
+      "LocalizedName":"South America"
+   }
+]
